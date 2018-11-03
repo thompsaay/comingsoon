@@ -1,0 +1,54 @@
+html,body {
+	height:100%;
+}
+
+.test-layout{
+
+background-color: #ffffff;
+color: #262a47;
+}
+
+.centre-content {
+
+width: 70%;
+text-align: center;
+
+}
+
+.centre-content img {
+
+max-width: 30%;
+border: 1px solid white;
+
+}
+
+.icon { 
+
+padding-left: 4px; 
+padding-right: 4px;
+
+}
+
+a:link {
+    color: #262a47; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #262a47;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f0f0f0;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #262a47;
+    background-color: transparent;
+    text-decoration: none;
+}
