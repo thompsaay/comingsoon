@@ -5,7 +5,7 @@ html,body {
 .test-layout{
 
 background-color: #ffffff;
-color: #3b8372;
+color: #2b6053;
 }
 
 .centre-content {
@@ -30,25 +30,25 @@ padding-right: 4px;
 }
 
 a:link {
-    color: #3b8372; 
+    color: #2b6053; 
     background-color: transparent; 
     text-decoration: none;
 }
 
 a:visited {
-    color: #3b8372;
+    color: #2b6053;
     background-color: transparent;
     text-decoration: none;
 }
 
 a:hover {
-    color: #f0f0f0;
+    color: #2b6053;
     background-color: transparent;
     text-decoration: none;
 }
 
 a:active {
-    color: #3b8372;
+    color: #2b6053;
     background-color: transparent;
     text-decoration: none;
 }
